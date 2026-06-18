@@ -1138,10 +1138,10 @@ Pressurizes system (13-16 psi typical). Increases coolant boiling point. **Never
           },
           {
             type: 'video',
-            url: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
+            url: 'https://www.youtube.com/watch?v=k0ovUHEOtyE',
             caption: 'Watch: Cooling system operation explained',
             position: 4,
-            thumbnail: 'https://images.pexels.com/photos/4226906/pexels-photo-4226906.jpeg?auto=compress&cs=tinysrgb&w=400'
+            thumbnail: 'https://images.pexels.com/photos/29407253/pexels-photo-29407253.jpeg?auto=compress&cs=tinysrgb&w=400'
           },
           {
             type: 'image',
