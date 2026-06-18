@@ -2391,7 +2391,7 @@ Half shafts with CV joints. Inner plunge joint, outer fixed joint.
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226948/pexels-photo-4226948.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://i.ebayimg.com/images/g/jFcAAeSwX8RqAgAv/s-l1200.webp?auto=compress&cs=tinysrgb&w=800',
             caption: 'Front wheel drive axle assembly',
             position: 5
           }
