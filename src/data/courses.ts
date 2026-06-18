@@ -1594,7 +1594,7 @@ Wheels straight, engine off. Check for excessive movement. Should be minimal (le
           },
           {
             type: 'image',
-            url: 'https://i.ytimg.com/vi/VgIkpPON5fk/maxresdefault.jpg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://www.larescorp.com/Images/rack-and-pinion-power-steering-1.jpg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Rack and pinion steering gear cutaway',
             position: 2
           },
