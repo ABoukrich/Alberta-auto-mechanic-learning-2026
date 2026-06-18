@@ -471,7 +471,7 @@ Common on modern vehicles. Security tamper-proof versions exist. Always use corr
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226894/pexels-photo-4226894.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/5853933/pexels-photo-5853933.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Combination wrenches - open end and box end',
             position: 2
           },
