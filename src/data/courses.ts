@@ -1290,7 +1290,7 @@ Inspect every 15,000 miles. Replace every 30,000-45,000 miles. More often in dus
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226910/pexels-photo-4226910.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/32152037/pexels-photo-32152037.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Draining engine oil during service',
             position: 2
           },
