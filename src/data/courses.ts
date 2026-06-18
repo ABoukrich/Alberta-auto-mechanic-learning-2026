@@ -2092,7 +2092,7 @@ Standard since 1996. Universal diagnostic connector (DLC). Standardized codes (P
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226937/pexels-photo-4226937.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAi-zG_DBBAAw7qkW9x1l8NN3ivXgq_EfadQ&s?auto=compress&cs=tinysrgb&w=800',
             caption: 'Fuel pressure gauge installation',
             position: 4
           },
