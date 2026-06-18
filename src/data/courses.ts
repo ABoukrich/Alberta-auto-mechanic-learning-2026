@@ -980,7 +980,7 @@ Chemically engineered molecules. Better temperature performance. Longer change i
         media: [
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226901/pexels-photo-4226901.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/13065691/pexels-photo-13065691.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Engine oil - the lifeblood of your engine',
             position: 1
           },
