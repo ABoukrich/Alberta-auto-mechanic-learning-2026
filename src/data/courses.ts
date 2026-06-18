@@ -1904,7 +1904,7 @@ Restraint systems protect occupants during a collision. Modern vehicles combine 
         media: [
           {
             type: 'image',
-            url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdFSqmQ5TmgDzrTIoqzNt6oC0lnMUa0aUD-A&s?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://i.ytimg.com/vi/uRaU1HMJyCo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDmtnTE0q5m1ch1CCrtqVWK53oTAA?auto=compress&cs=tinysrgb&w=800',
             caption: 'Seat belt pretensioner and retractor mechanism',
             position: 1
           },
