@@ -2080,7 +2080,7 @@ Standard since 1996. Universal diagnostic connector (DLC). Standardized codes (P
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226935/pexels-photo-4226935.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/12271953/pexels-photo-12271953.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'OBD-II diagnostic connector location',
             position: 2
           },
