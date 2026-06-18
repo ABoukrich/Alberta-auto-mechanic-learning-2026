@@ -840,7 +840,7 @@ Operates valves. Driven by crankshaft (chain, belt, or gear). One revolution per
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226900/pexels-photo-4226900.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/188777/pexels-photo-188777.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Timing components - crankshaft and camshaft relationship',
             position: 4
           },
