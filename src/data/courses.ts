@@ -2074,7 +2074,7 @@ Standard since 1996. Universal diagnostic connector (DLC). Standardized codes (P
         media: [
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226934/pexels-photo-4226934.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/4116193/pexels-photo-4116193.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'OBD-II scan tool reading diagnostic codes',
             position: 1
           },
