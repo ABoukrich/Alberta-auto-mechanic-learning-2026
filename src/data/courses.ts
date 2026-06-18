@@ -477,7 +477,7 @@ Common on modern vehicles. Security tamper-proof versions exist. Always use corr
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/162539/pexels-photo-162539.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/30413496/pexels-photo-30413496.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Adjustable wrench - useful for various fastener sizes',
             position: 3
           },
