@@ -1588,7 +1588,7 @@ Wheels straight, engine off. Check for excessive movement. Should be minimal (le
         media: [
           {
             type: 'image',
-            url: 'https://chatgpt.com/backend-api/estuary/content?id=file_00000000036871fda4d22cd39e639499&ts=494946&p=fs&cid=1&sig=2bc3f4e26ce501221bd6494d3f4a967d877b96ca605b2637584b233babd7156a&v=0?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/8985601/pexels-photo-8985601.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Modern rack and pinion steering system',
             position: 1
           },
