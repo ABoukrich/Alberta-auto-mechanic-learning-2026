@@ -2373,7 +2373,7 @@ Half shafts with CV joints. Inner plunge joint, outer fixed joint.
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226945/pexels-photo-4226945.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://zydiamondtools.com/wp-content/uploads/2025/12/heavy-duty-truck-clutch-kit-assembly-pressure-plate.webp?auto=compress&cs=tinysrgb&w=800',
             caption: 'Clutch disc and pressure plate assembly',
             position: 2
           },
