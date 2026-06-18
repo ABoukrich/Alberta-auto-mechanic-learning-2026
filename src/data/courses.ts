@@ -2674,7 +2674,7 @@ Check:
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226956/pexels-photo-4226956.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://www.ogsmechanics.com/wp-content/uploads/2023/09/wheel_alignment_camber_caster_toe.jpg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Camber and toe angle diagram',
             position: 3
           },
