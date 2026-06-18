@@ -1746,7 +1746,7 @@ Normal: Less than 50mA. High draw = dead battery.
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226925/pexels-photo-4226925.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/32282233/pexels-photo-32282233.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Automotive battery - 12V lead-acid type',
             position: 2
           },
