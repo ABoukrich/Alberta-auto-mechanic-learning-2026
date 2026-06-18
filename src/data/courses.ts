@@ -1284,7 +1284,7 @@ Inspect every 15,000 miles. Replace every 30,000-45,000 miles. More often in dus
         media: [
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/3807993/pexels-photo-3807993.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/33814734/pexels-photo-33814734.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Professional automotive service bay',
             position: 1
           },
