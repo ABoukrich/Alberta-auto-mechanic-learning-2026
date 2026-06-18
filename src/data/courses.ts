@@ -2385,7 +2385,7 @@ Half shafts with CV joints. Inner plunge joint, outer fixed joint.
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226947/pexels-photo-4226947.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://consulab-prod-contenu.s3.amazonaws.com/_processed_2/a/f/csm_1010_EC-431_devant-gauche_3bff5a9948.jpg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Differential cutaway showing internal gears',
             position: 4
           },
