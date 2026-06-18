@@ -1758,7 +1758,7 @@ Normal: Less than 50mA. High draw = dead battery.
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226927/pexels-photo-4226927.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://www.sunautoservice.com/app/uploads/2025/06/blogs_problems-with-fuse-box.webp?auto=compress&cs=tinysrgb&w=800',
             caption: 'Automotive fuse box - various fuse types',
             position: 4
           },
