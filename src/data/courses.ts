@@ -1447,7 +1447,7 @@ Uses engine vacuum for assist. Diaphragm and check valve design. Manual braking 
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226916/pexels-photo-4226916.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/6110229/pexels-photo-6110229.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Brake lines and ABS module',
             position: 3
           },
