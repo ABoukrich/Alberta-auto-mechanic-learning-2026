@@ -2232,7 +2232,7 @@ Network communication codes:
           },
           {
             type: 'image',
-            url: 'https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/696840466_3172289962979856_9211176274800863652_n.jpg?stp=dst-jpg_tt6&cstp=mx842x1264&ctp=p526x296&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=74tOu6Ai-T4Q7kNvwGyS5PA&_nc_oc=AdrakIdYDRqyj2VJBj0XcdTk7eA3_PYVVSJUMOSwMu_uE5uNScMccb3oTjKmKBlyhTg&_nc_zt=23&_nc_ht=scontent-yyz1-1.xx&_nc_gid=UoqlKKqlh8F_oF7wGOlksw&_nc_ss=7a289&oh=00_Af-SRM5x3lpUbtBCOuTV2JBpu8yT6hUbVP59acGkjnThFw&oe=6A3A11AC?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://www.electude.com/app/uploads/2024/12/CAN07_Car_with_CAN_bus-1-932x1024.png?auto=compress&cs=tinysrgb&w=800',
             caption: 'CAN bus network topology diagram',
             position: 2
           },
