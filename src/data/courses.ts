@@ -489,7 +489,7 @@ Common on modern vehicles. Security tamper-proof versions exist. Always use corr
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226897/pexels-photo-4226897.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/6720531/pexels-photo-6720531.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Click-type torque wrench for precise fastener tightening',
             position: 5
           },
