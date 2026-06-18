@@ -1453,7 +1453,7 @@ Uses engine vacuum for assist. Diaphragm and check valve design. Manual braking 
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226917/pexels-photo-4226917.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/34277926/pexels-photo-34277926.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Brake pads - check for wear and glazing',
             position: 4
           },
