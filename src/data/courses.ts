@@ -1296,7 +1296,7 @@ Inspect every 15,000 miles. Replace every 30,000-45,000 miles. More often in dus
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226911/pexels-photo-4226911.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/6870331/pexels-photo-6870331.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Tire rotation extends tire life',
             position: 3
           },
