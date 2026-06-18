@@ -1459,7 +1459,7 @@ Uses engine vacuum for assist. Diaphragm and check valve design. Manual braking 
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226918/pexels-photo-4226918.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/6870299/pexels-photo-6870299.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Brake booster and master cylinder assembly',
             position: 5
           }
@@ -1588,7 +1588,7 @@ Wheels straight, engine off. Check for excessive movement. Should be minimal (le
         media: [
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226919/pexels-photo-4226919.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/8985601/pexels-photo-8985601.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Modern rack and pinion steering system',
             position: 1
           },
