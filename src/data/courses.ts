@@ -822,7 +822,7 @@ Operates valves. Driven by crankshaft (chain, belt, or gear). One revolution per
         media: [
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/163735/pexels-photo-163735.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/190539/pexels-photo-190539.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Modern four-stroke engine cutaway showing internal components',
             position: 1
           },
