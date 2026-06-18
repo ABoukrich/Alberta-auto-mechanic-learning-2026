@@ -1606,7 +1606,7 @@ Wheels straight, engine off. Check for excessive movement. Should be minimal (le
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226922/pexels-photo-4226922.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://www.moog-suspension-parts.com/images-site-specific/tie-rod-ends-info-images/steering-linkage-diagram-1.jpg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Tie rod end - check for play and wear',
             position: 4
           },
