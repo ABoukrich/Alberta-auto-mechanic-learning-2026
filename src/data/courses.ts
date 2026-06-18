@@ -657,7 +657,7 @@ Transfer measurements from inside bores. Expand, lock, and measure with outside 
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/163735/pexels-photo-163735.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/36003974/pexels-photo-36003974.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Outside micrometer measuring precision component',
             position: 2
           },
