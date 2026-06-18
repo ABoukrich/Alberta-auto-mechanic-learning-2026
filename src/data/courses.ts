@@ -2520,7 +2520,7 @@ Holding one member creates gear reduction or overdrive. Two members locked = dir
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226950/pexels-photo-4226950.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://victrans.com/wp-content/uploads/2013/08/Torque-Converter.jpg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Torque converter components',
             position: 2
           },
