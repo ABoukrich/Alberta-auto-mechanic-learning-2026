@@ -2526,7 +2526,7 @@ Holding one member creates gear reduction or overdrive. Two members locked = dir
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226951/pexels-photo-4226951.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://ik.imagekit.io/agmamedia/2023/04/19/Explosionsmodell-Antriebsseite.png?auto=compress&cs=tinysrgb&w=800',
             caption: 'Planetary gear set operation',
             position: 3
           },
