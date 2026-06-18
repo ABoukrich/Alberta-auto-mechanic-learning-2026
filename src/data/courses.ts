@@ -1588,7 +1588,7 @@ Wheels straight, engine off. Check for excessive movement. Should be minimal (le
         media: [
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/8985601/pexels-photo-8985601.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://di-uploads-pod29.dealerinspire.com/i90nissan/uploads/2025/02/Signs-of-a-Bad.png?auto=compress&cs=tinysrgb&w=800',
             caption: 'Modern rack and pinion steering system',
             position: 1
           },
