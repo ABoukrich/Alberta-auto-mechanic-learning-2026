@@ -1308,7 +1308,7 @@ Inspect every 15,000 miles. Replace every 30,000-45,000 miles. More often in dus
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226913/pexels-photo-4226913.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/6870297/pexels-photo-6870297.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Checking fluid levels under the hood',
             position: 5
           }
