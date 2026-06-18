@@ -1752,7 +1752,7 @@ Normal: Less than 50mA. High draw = dead battery.
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226926/pexels-photo-4226926.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://i.pinimg.com/736x/0f/14/1b/0f141b67805e720274bc0be866030b2a.jpg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Series circuit diagram - single path for current',
             position: 3
           },
