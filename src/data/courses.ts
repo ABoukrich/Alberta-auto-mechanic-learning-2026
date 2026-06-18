@@ -2098,7 +2098,7 @@ Standard since 1996. Universal diagnostic connector (DLC). Standardized codes (P
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226938/pexels-photo-4226938.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://blog.amsoil.com/wp-content/uploads/2017/03/Engine_Compression_Guage_1200px.jpg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Compression tester on engine',
             position: 5
           }
