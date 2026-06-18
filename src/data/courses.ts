@@ -311,7 +311,7 @@ Always consult the service manual for specific lift points. Common locations inc
             url: 'https://www.youtube.com/watch?v=brU_rNUh6Is',
             caption: 'Watch: Proper vehicle lifting and safety procedures',
             position: 5,
-            thumbnail: 'https://images.pexels.com/photos/3807995/pexels-photo-3807995.jpeg?auto=compress&cs=tinysrgb&w=800'
+            thumbnail: 'https://images.pexels.com/photos/4116169/pexels-photo-4116169.jpeg?auto=compress&cs=tinysrgb&w=800'
           }
         ],
         quizQuestions: [
