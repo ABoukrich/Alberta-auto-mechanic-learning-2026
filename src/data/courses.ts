@@ -495,7 +495,7 @@ Common on modern vehicles. Security tamper-proof versions exist. Always use corr
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/162535/pexels-photo-162535.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/37792975/pexels-photo-37792975.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Various pliers types for automotive work',
             position: 6
           },
