@@ -1004,7 +1004,7 @@ Chemically engineered molecules. Better temperature performance. Longer change i
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226905/pexels-photo-4226905.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/32152039/pexels-photo-32152039.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Performing an oil change service',
             position: 5
           }
