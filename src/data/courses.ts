@@ -2680,7 +2680,7 @@ Check:
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226957/pexels-photo-4226957.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://grimmermotors.co.nz/wp-content/uploads/2018/03/brakes-pull-300x282.png?auto=compress&cs=tinysrgb&w=800',
             caption: 'Vehicle pulling due to alignment issue',
             position: 4
           },
