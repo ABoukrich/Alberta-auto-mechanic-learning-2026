@@ -2086,7 +2086,7 @@ Standard since 1996. Universal diagnostic connector (DLC). Standardized codes (P
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226936/pexels-photo-4226936.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://honda-tech.com/forums/attachments/engine-management-tuning-124/473597-spark-plug-reading-pictures-densosparkplugchart.jpg',
             caption: 'Spark plug condition reading chart',
             position: 3
           },
