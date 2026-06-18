@@ -669,7 +669,7 @@ Transfer measurements from inside bores. Expand, lock, and measure with outside 
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226899/pexels-photo-4226899.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/37660313/pexels-photo-37660313.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Dial indicator measuring brake rotor runout',
             position: 4
           },
