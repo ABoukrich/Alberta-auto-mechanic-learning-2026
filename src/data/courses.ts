@@ -1132,7 +1132,7 @@ Pressurizes system (13-16 psi typical). Increases coolant boiling point. **Never
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226908/pexels-photo-4226908.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/9762337/pexels-photo-9762337.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Radiator cap - never open when hot!',
             position: 3
           },
