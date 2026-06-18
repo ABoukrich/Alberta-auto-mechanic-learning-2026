@@ -2532,7 +2532,7 @@ Holding one member creates gear reduction or overdrive. Two members locked = dir
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226952/pexels-photo-4226952.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://at-manuals.com/wp-content/uploads/2019/02/how_to_check_transmission_oil_level.jpg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Checking transmission fluid level and condition',
             position: 4
           },
