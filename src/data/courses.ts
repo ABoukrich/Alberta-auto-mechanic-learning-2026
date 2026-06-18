@@ -1764,7 +1764,7 @@ Normal: Less than 50mA. High draw = dead battery.
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226928/pexels-photo-4226928.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://s19533.pcdn.co/wp-content/uploads/2017/09/multimeter-electrical-system-automotive-919600.jpg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Using multimeter for electrical diagnostics',
             position: 5
           }
