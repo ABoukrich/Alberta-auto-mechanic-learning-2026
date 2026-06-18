@@ -2244,7 +2244,7 @@ Network communication codes:
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226942/pexels-photo-4226942.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://www.interworldna.com/images/pico/canbus_waveform_1.jpg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Oscilloscope CAN bus waveform',
             position: 4
           },
