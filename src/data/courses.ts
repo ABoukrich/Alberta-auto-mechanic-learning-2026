@@ -663,7 +663,7 @@ Transfer measurements from inside bores. Expand, lock, and measure with outside 
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/162536/pexels-photo-162536.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/7180748/pexels-photo-7180748.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Digital caliper for accurate measurements',
             position: 3
           },
