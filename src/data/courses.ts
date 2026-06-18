@@ -1600,7 +1600,7 @@ Wheels straight, engine off. Check for excessive movement. Should be minimal (le
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/37177077/pexels-photo-37177077.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://westernchassis.com/images/P/PSPKBB_500W.jpg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Power steering pump and reservoir',
             position: 3
           },
