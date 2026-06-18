@@ -501,7 +501,7 @@ Common on modern vehicles. Security tamper-proof versions exist. Always use corr
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/109823/pexels-photo-109823.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/7568416/pexels-photo-7568416.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Gear puller for removing pulleys and bearings',
             position: 7
           }
