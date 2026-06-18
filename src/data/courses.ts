@@ -651,7 +651,7 @@ Transfer measurements from inside bores. Expand, lock, and measure with outside 
         media: [
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226898/pexels-photo-4226898.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/5290119/pexels-photo-5290119.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Precision measuring tools for automotive service',
             position: 1
           },
