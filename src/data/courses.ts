@@ -2662,7 +2662,7 @@ Check:
         media: [
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226954/pexels-photo-4226954.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://image.made-in-china.com/202f0j00MPpfzCAqgIct/Computerized-3D-Car-Wheel-Aligner-Wheel-Alignment.webp?auto=compress&cs=tinysrgb&w=800',
             caption: 'Computerized wheel alignment machine',
             position: 1
           },
