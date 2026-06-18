@@ -2514,7 +2514,7 @@ Holding one member creates gear reduction or overdrive. Two members locked = dir
         media: [
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226949/pexels-photo-4226949.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/28721763/pexels-photo-28721763.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Automatic transmission cutaway',
             position: 1
           },
