@@ -846,7 +846,7 @@ Operates valves. Driven by crankshaft (chain, belt, or gear). One revolution per
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/162536/pexels-photo-162536.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/33559644/pexels-photo-33559644.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Piston and connecting rod assembly',
             position: 5
           },
