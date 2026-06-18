@@ -1594,13 +1594,13 @@ Wheels straight, engine off. Check for excessive movement. Should be minimal (le
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226920/pexels-photo-4226920.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/7568422/pexels-photo-7568422.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Rack and pinion steering gear cutaway',
             position: 2
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226921/pexels-photo-4226921.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/37177077/pexels-photo-37177077.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Power steering pump and reservoir',
             position: 3
           },
