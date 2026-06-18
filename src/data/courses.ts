@@ -1740,7 +1740,7 @@ Normal: Less than 50mA. High draw = dead battery.
         media: [
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226924/pexels-photo-4226924.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://www.electronics-tutorials.ws/wp-content/uploads/2018/05/dccircuits-dcp23.gif?auto=compress&cs=tinysrgb&w=800',
             caption: "Ohm's Law triangle - fundamental electrical relationship",
             position: 1
           },
