@@ -2668,7 +2668,7 @@ Check:
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226955/pexels-photo-4226955.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://static.summitracing.com/global/images/faqs/5255/caster_diagram.jpg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Caster angle illustration',
             position: 2
           },
