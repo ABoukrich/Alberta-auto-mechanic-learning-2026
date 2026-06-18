@@ -986,7 +986,7 @@ Chemically engineered molecules. Better temperature performance. Longer change i
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226902/pexels-photo-4226902.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/11157438/pexels-photo-11157438.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Oil pump assembly from engine',
             position: 2
           },
