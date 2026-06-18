@@ -1126,7 +1126,7 @@ Pressurizes system (13-16 psi typical). Increases coolant boiling point. **Never
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/31501021/pexels-photo-31501021.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/14522449/pexels-photo-14522449.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Water pump - circulates coolant through the system',
             position: 2
           },
