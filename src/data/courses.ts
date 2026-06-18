@@ -852,10 +852,10 @@ Operates valves. Driven by crankshaft (chain, belt, or gear). One revolution per
           },
           {
             type: 'video',
-            url: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
+            url: 'https://www.youtube.com/watch?v=Pu7g3uIG6Zo',
             caption: 'Watch: Four-stroke engine animation',
             position: 6,
-            thumbnail: 'https://images.pexels.com/photos/163735/pexels-photo-163735.jpeg?auto=compress&cs=tinysrgb&w=400'
+            thumbnail: 'https://images.pexels.com/photos/7568418/pexels-photo-7568418.jpeg?auto=compress&cs=tinysrgb&w=400'
           }
         ],
         quizQuestions: [
