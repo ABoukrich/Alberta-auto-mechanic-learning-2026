@@ -2238,7 +2238,7 @@ Network communication codes:
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226941/pexels-photo-4226941.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://www.mri-auto-diagnostics.com/wp-content/uploads/2020/12/ECM-Communication-Wiring%20Troubleshooting.jpg?auto=compress&cs=tinysrgb&w=800',
             caption: 'LIN bus communication wiring',
             position: 3
           },
