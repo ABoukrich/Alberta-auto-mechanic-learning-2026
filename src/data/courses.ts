@@ -1910,7 +1910,7 @@ Restraint systems protect occupants during a collision. Modern vehicles combine 
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226930/pexels-photo-4226930.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://i.pinimg.com/736x/d8/10/00/d81000aae69c8defac8c8e6059343ce0.jpg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Three-point seatbelt system components',
             position: 2
           },
