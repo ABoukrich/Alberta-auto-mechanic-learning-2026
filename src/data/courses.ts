@@ -1302,7 +1302,7 @@ Inspect every 15,000 miles. Replace every 30,000-45,000 miles. More often in dus
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226912/pexels-photo-4226912.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/6870299/pexels-photo-6870299.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Brake pad inspection - check thickness',
             position: 4
           },
