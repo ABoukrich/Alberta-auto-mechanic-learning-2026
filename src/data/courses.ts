@@ -1590,11 +1590,7 @@ Wheels straight, engine off. Check for excessive movement. Should be minimal (le
             type: 'image',
             url: 'https://images.pexels.com/photos/8985601/pexels-photo-8985601.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Modern rack and pinion steering system',
-            position: 1,
-            arrow: {
-    x: '50%',
-    y: '45%'
-  }
+            position: 1
           },
           {
             type: 'image',
