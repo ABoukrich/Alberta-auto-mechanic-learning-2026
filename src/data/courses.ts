@@ -1120,7 +1120,7 @@ Pressurizes system (13-16 psi typical). Increases coolant boiling point. **Never
         media: [
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226906/pexels-photo-4226906.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/23957543/pexels-photo-23957543.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Automotive radiator - the main heat exchanger',
             position: 1
           },
