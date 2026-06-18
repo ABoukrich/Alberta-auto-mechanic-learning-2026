@@ -465,7 +465,7 @@ Common on modern vehicles. Security tamper-proof versions exist. Always use corr
         media: [
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/1145434/pexels-photo-1145434.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/8985913/pexels-photo-8985913.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Professional mechanic tool set organized in toolbox',
             position: 1
           },
