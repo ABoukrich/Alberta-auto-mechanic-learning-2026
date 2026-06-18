@@ -2367,7 +2367,7 @@ Half shafts with CV joints. Inner plunge joint, outer fixed joint.
         media: [
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226944/pexels-photo-4226944.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://ljcreate.com/wp-content/uploads/2021/08/fourWheelDriveSectionedDrivetrain.webp?auto=compress&cs=tinysrgb&w=800',
             caption: 'Complete drivetrain assembly',
             position: 1
           },
