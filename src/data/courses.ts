@@ -675,7 +675,7 @@ Transfer measurements from inside bores. Expand, lock, and measure with outside 
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/162533/pexels-photo-162533.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/7697444/pexels-photo-7697444.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Feeler gauge set for measuring gaps and clearances',
             position: 5
           }
