@@ -1612,7 +1612,7 @@ Wheels straight, engine off. Check for excessive movement. Should be minimal (le
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226923/pexels-photo-4226923.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://www.howacarworks.com/illustration/1217/a-steering-rack.png?auto=compress&cs=tinysrgb&w=800',
             caption: 'Steering system inspection points',
             position: 5
           }
