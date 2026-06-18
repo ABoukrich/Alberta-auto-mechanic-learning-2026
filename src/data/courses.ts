@@ -1922,7 +1922,7 @@ Restraint systems protect occupants during a collision. Modern vehicles combine 
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226932/pexels-photo-4226932.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://www.safetyrestore.com/blog/wp-content/uploads/2019/03/Airbag-light-stays-on.png?auto=compress&cs=tinysrgb&w=800',
             caption: 'SRS airbag warning light and module',
             position: 4
           },
