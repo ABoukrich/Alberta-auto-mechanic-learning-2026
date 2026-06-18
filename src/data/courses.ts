@@ -1435,7 +1435,7 @@ Uses engine vacuum for assist. Diaphragm and check valve design. Manual braking 
         media: [
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226914/pexels-photo-4226914.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/6870307/pexels-photo-6870307.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Complete disc brake assembly',
             position: 1
           },
