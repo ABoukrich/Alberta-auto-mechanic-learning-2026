@@ -998,7 +998,7 @@ Chemically engineered molecules. Better temperature performance. Longer change i
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226904/pexels-photo-4226904.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/7723291/pexels-photo-7723291.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Various oil grades and viscosities',
             position: 4
           },
