@@ -2686,7 +2686,7 @@ Check:
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226958/pexels-photo-4226958.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://www.wikihow.com/images/thumb/9/96/Check-Ball-Joints-Step-6-Version-2.jpg/v4-460px-Check-Ball-Joints-Step-6-Version-2.jpg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Checking ball joints before alignment',
             position: 5
           }
