@@ -1916,7 +1916,7 @@ Restraint systems protect occupants during a collision. Modern vehicles combine 
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226931/pexels-photo-4226931.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://i0.wp.com/textilelearner.net/wp-content/uploads/2012/09/Operation-sequence-of-an-airbag.jpg?resize=576%2C432&ssl=1?auto=compress&cs=tinysrgb&w=800',
             caption: 'Airbag deployment sequence timing',
             position: 3
           },
