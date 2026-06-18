@@ -2250,7 +2250,7 @@ Network communication codes:
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226943/pexels-photo-4226943.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://i.ebayimg.com/images/g/C0wAAOSw7R9gwSr2/s-l1200.jpg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Module network connector inspection',
             position: 5
           }
