@@ -2226,7 +2226,7 @@ Network communication codes:
         media: [
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226939/pexels-photo-4226939.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/38007655/pexels-photo-38007655.png?auto=compress&cs=tinysrgb&w=800',
             caption: 'Engine control module (ECM/PCM)',
             position: 1
           },
