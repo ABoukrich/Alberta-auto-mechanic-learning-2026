@@ -2538,7 +2538,7 @@ Holding one member creates gear reduction or overdrive. Two members locked = dir
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226953/pexels-photo-4226953.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://cdn11.bigcommerce.com/s-x0abscdu02/images/stencil/1280x1280/products/27023/29419/p144740ba__17215.1736973287.jpg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Transmission valve body',
             position: 5
           }
