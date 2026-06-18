@@ -483,7 +483,7 @@ Common on modern vehicles. Security tamper-proof versions exist. Always use corr
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/209235/pexels-photo-209235.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/4480531/pexels-photo-4480531.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Socket set with various drive sizes and extensions',
             position: 4
           },
