@@ -828,7 +828,7 @@ Operates valves. Driven by crankshaft (chain, belt, or gear). One revolution per
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/162537/pexels-photo-162537.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/5506047/pexels-photo-5506047.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Intake stroke - air-fuel mixture enters cylinder',
             position: 2
           },
