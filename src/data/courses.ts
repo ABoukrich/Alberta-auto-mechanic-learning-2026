@@ -1928,7 +1928,7 @@ Restraint systems protect occupants during a collision. Modern vehicles combine 
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226933/pexels-photo-4226933.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://image.made-in-china.com/202f0j00ZuhvtSCKrYcj/Automotive-Airbag-SRS-Components-Clock-Spring-DAB-Pab-Steering-Wheel-Connectors-Airbag-Module.webp?auto=compress&cs=tinysrgb&w=800',
             caption: 'Steering wheel airbag module',
             position: 5
           }
