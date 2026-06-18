@@ -2232,7 +2232,7 @@ Network communication codes:
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226940/pexels-photo-4226940.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://media.licdn.com/dms/image/v2/D5612AQF_CWi2fiV59Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1714921843794?e=2147483647&v=beta&t=6A__iQH9TukNNAdAorwn4GWrFKBva_0hhSEtLpL6vXw?auto=compress&cs=tinysrgb&w=800',
             caption: 'CAN bus network topology diagram',
             position: 2
           },
