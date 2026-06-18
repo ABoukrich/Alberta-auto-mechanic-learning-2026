@@ -1145,7 +1145,7 @@ Pressurizes system (13-16 psi typical). Increases coolant boiling point. **Never
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226909/pexels-photo-4226909.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://images.pexels.com/photos/4116225/pexels-photo-4116225.jpeg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Checking coolant level and condition',
             position: 5
           }
