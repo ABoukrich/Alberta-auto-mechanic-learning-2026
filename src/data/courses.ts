@@ -2825,7 +2825,7 @@ Motor acts as generator. Captures kinetic energy. Stores in battery.
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226961/pexels-photo-4226961.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://m.media-amazon.com/images/I/91QjBZRnKQL._AC_UF1000,1000_QL80_.jpg?auto=compress&cs=tinysrgb&w=800',
             caption: 'High-voltage safety gloves and PPE',
             position: 3
           },
