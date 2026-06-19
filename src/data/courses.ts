@@ -2819,7 +2819,7 @@ Motor acts as generator. Captures kinetic energy. Stores in battery.
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226960/pexels-photo-4226960.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://cdn-product-images.revolutionparts.io/assets/26679777adc9561de7d7e02720c34f2b.webp?auto=compress&cs=tinysrgb&w=800',
             caption: 'High-voltage battery pack assembly',
             position: 2
           },
