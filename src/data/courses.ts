@@ -2831,7 +2831,7 @@ Motor acts as generator. Captures kinetic energy. Stores in battery.
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226962/pexels-photo-4226962.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://www.jalopnik.com/img/gallery/why-are-high-voltage-cables-orange-on-electric-cars/l-intro-1750264346.jpg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Orange high-voltage cables in EV',
             position: 4
           },
