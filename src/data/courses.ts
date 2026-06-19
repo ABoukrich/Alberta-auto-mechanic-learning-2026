@@ -2813,7 +2813,7 @@ Motor acts as generator. Captures kinetic energy. Stores in battery.
         media: [
           {
             type: 'image',
-            url: 'https://www.autodeal.com.ph/custom/blog-post/header/toyota-hybrid-system-5d78a8f14e07c.jpg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://mag.toyota.co.uk/wp-content/uploads/sites/2/2021/01/PRI_DPL_193_09_TEC.jpg?auto=compress&cs=tinysrgb&w=800',
             caption: 'Hybrid vehicle powertrain components',
             position: 1
           },
