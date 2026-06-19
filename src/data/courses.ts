@@ -2837,7 +2837,7 @@ Motor acts as generator. Captures kinetic energy. Stores in battery.
           },
           {
             type: 'image',
-            url: 'https://images.pexels.com/photos/4226963/pexels-photo-4226963.jpeg?auto=compress&cs=tinysrgb&w=800',
+            url: 'https://s19531.pcdn.co/wp-content/uploads/2021/07/Hybrid-brakes-1.png?auto=compress&cs=tinysrgb&w=800',
             caption: 'Regenerative braking system diagram',
             position: 5
           }
